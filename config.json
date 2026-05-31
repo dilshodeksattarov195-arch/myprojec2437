@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databaseftringify",
+        "uuid": 21618627,
+        "checksum": "0djf5"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
